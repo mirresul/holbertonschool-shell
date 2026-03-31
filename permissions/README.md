@@ -8,4 +8,5 @@
 7-everybody: adds execute permission to all users
 8-James_Bond: sets permissions so only others have all permissions
 9-John_Doe: sets the mode of hello to 753 (rwxr-x-wx)
-10-mirror_permissions: sets hello permissions same as olleh          
+10-mirror_permissions: sets hello permissions same as olleh
+11-directories_permissions: adds execute permission to all directories only          
